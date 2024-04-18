@@ -1,5 +1,21 @@
 # Fuse - Admin template and Starter project for Angular
 
+
+
+![image](https://github.com/sulton300501/labs/assets/148205055/c3a41e2d-d089-4386-997a-f6c8b4679eed)
+
+
+
+![image](https://github.com/sulton300501/labs/assets/148205055/d481d28e-0fb5-4b48-9a1a-6d995c83a6c1)
+
+
+![image](https://github.com/sulton300501/labs/assets/148205055/f58d4ca6-074b-4981-99a6-569e277cc4ad)
+
+![image](https://github.com/sulton300501/labs/assets/148205055/af4136e8-a070-4562-b9ab-acc794febbeb)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Development server
